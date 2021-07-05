@@ -1,0 +1,17 @@
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\bin\x86\Debug\HPSocket4C.dll
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\bin\x86\Debug\TestHPSocket.exe.config
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\bin\x86\Debug\TestHPSocket.exe
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\bin\x86\Debug\TestHPSocket.pdb
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\bin\x86\Debug\HPSocket.Net.dll
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\bin\x86\Debug\HPSocket.Net.pdb
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\bin\x86\Debug\HPSocket.Net.xml
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\obj\x86\Debug\TestHPSocket.csproj.AssemblyReference.cache
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\obj\x86\Debug\TestHPSocket.Form1.resources
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\obj\x86\Debug\TestHPSocket.Properties.Resources.resources
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\obj\x86\Debug\TestHPSocket.csproj.GenerateResource.cache
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\obj\x86\Debug\TestHPSocket.csproj.CoreCompileInputs.cache
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\obj\x86\Debug\TestHPSocket.csproj.CopyComplete
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\obj\x86\Debug\TestHPSocket.exe
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\obj\x86\Debug\TestHPSocket.pdb
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\yjzhw\source\repos\TestHPSocket\TestHPSocket\bin\x86\Debug\Newtonsoft.Json.xml
